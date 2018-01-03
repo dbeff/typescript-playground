@@ -1,0 +1,26 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "typescript": "^2.6.2",
+    "ts-loader": "^3.2.0"
+  },
+  "devDependencies": {
+    "typescript-eslint-parser": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbeff/typescript-playground.git"
+  },
+  "author": "Daniel Beff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbeff/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/dbeff/typescript-playground#readme"
+}
